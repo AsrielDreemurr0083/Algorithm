@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\Algorithm\\Program\\Program.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\Game Project\\Algorithm\\Program\\Program.csproj",
       "projectName": "Program",
-      "projectPath": "C:\\Users\\Administrator\\Desktop\\Algorithm\\Program\\Program.csproj",
+      "projectPath": "C:\\Users\\Administrator\\Desktop\\Game Project\\Algorithm\\Program\\Program.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Desktop\\Algorithm\\Program\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Desktop\\Game Project\\Algorithm\\Program\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",

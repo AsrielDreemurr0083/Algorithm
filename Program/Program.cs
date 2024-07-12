@@ -2,35 +2,66 @@
 {
     internal class Program
     {
-        static bool IsPrime(int n)
-        {
-            for(int i = 2; i < n; i++)
-            {
-                if(n % i == 0)
-                {
-                    return false;
-                }
-            }
-            return true;
-        }
         static void Main(string[] args)
         {
-            //합성수 : 1보다 큰 자연수 중에서 소수가 아닌 수로, 약수가 3개 이상인 수
-
-            //int n = int.Parse(Console.ReadLine());
+            #region 선택 정렬
+            //주어진 리스트 중에 최소값을 찾아서 맨 앞에 위치한 결과를
+            //교체하는 방식으로 정렬하는 알고리즘
+            //int[] array = new int[] { 3, 6, 7, 9, 5 };
             //
-            //Console.WriteLine(IsPrime(n));
+            //int targetIndex, temp;
+            //
+            //for (int i = 0; i < array.Length - 1; i++)
+            //{
+            //    targetIndex = i;
+            //    for (int j = i+1; j < array.Length; j++)
+            //    {
+            //        if (array[j] < array[targetIndex])
+            //        {
+            //            targetIndex = j;
+            //        }
+            //    }
+            //    if (i != targetIndex)
+            //    {
+            //        temp = array[i];
+            //        array[i] = array[targetIndex];
+            //        array[targetIndex] = temp;
+            //    }
+            //}
+            //for (int i = 0; i < array.Length; i++)
+            //{
+            //    Console.Write(array[i] + " ");
+            //}
 
-            #region 에라토스테네스의 체
-            //소수를 판정하는 방법으로, 자연수를 순서대로
-            //늘어놓은 표에서 합성수를 차례대로 지워나가면서
-            //소수의 목록을 얻어내는 방법이다.
+            //정답
 
-             
+            int[] array = new int[] { 3, 6, 7, 9, 5 };
+
+            for(int i = 0; i < array.Length; i++)
+            {
+                int min = array[i];
+                int select = i;
+                for(int j = i + 1; j < array.Length; j++)
+                {
+                    if(min > array[j])
+                    {
+                        min = array[j];
+
+                        select = j;
+                    }
+                }
+                int temp = array[i];
+
+                array[i] = array[select];
+                array[select] = temp;
+            }
+
+            for(int i = 0; i < array.Length; i++)
+            {
+                Console.Write(array[i] + " ");
+            }
 
             #endregion
-
-
         }
     }
 }
