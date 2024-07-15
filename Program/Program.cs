@@ -4,63 +4,23 @@
     {
         static void Main(string[] args)
         {
-            #region 선택 정렬
-            //주어진 리스트 중에 최소값을 찾아서 맨 앞에 위치한 결과를
-            //교체하는 방식으로 정렬하는 알고리즘
-            //int[] array = new int[] { 3, 6, 7, 9, 5 };
-            //
-            //int targetIndex, temp;
-            //
-            //for (int i = 0; i < array.Length - 1; i++)
-            //{
-            //    targetIndex = i;
-            //    for (int j = i+1; j < array.Length; j++)
-            //    {
-            //        if (array[j] < array[targetIndex])
-            //        {
-            //            targetIndex = j;
-            //        }
-            //    }
-            //    if (i != targetIndex)
-            //    {
-            //        temp = array[i];
-            //        array[i] = array[targetIndex];
-            //        array[targetIndex] = temp;
-            //    }
-            //}
-            //for (int i = 0; i < array.Length; i++)
-            //{
-            //    Console.Write(array[i] + " ");
-            //}
+            #region 계수 정렬
+            // 데이터의 값을 직접 비교하지 않고, 단순하게 각 숫자가 몇개 있는지
+            // 개수를 세어 저장한 다음 정렬하는 알고리즘
 
-            //정답
+            int[] count = new int[] { 1, 6, 6, 6, 5, 1, 2, 3, 1, 2, 3, 6, 5, 4 };
+            int[] array = new int[5];
 
-            int[] array = new int[] { 3, 6, 7, 9, 5 };
+            int i = 0;
+            int j = 0;
 
-            for(int i = 0; i < array.Length; i++)
+            for(i = 0; i < count.Length; i++)
             {
-                int min = array[i];
-                int select = i;
-                for(int j = i + 1; j < array.Length; j++)
+                for(j = 0; j < array.Length; j++)
                 {
-                    if(min > array[j])
-                    {
-                        min = array[j];
-
-                        select = j;
-                    }
+                    array[i] = count[]
                 }
-                int temp = array[i];
-
-                array[i] = array[select];
-                array[select] = temp;
             }
-
-            for(int i = 0; i < array.Length; i++)
-            {
-                Console.Write(array[i] + " ");
-            }
-
             #endregion
         }
     }
