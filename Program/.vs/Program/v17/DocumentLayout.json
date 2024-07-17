@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asriel Dreemurr\\Desktop\\Algorithm\\Program\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5ABC250-7C35-4457-B8DC-6FACFE321131}|Program.csproj|c:\\users\\asriel dreemurr\\desktop\\algorithm\\program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5ABC250-7C35-4457-B8DC-6FACFE321131}|Program.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{219B2F40-140B-494A-B486-0F118C282FA2}|..\\Class8th (Two Pointer)\\Class8th (Two Pointer).csproj|c:\\users\\asriel dreemurr\\desktop\\algorithm\\class8th (two pointer)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BCC028B-A75A-4B22-B77B-4F2934BBB0EB}|..\\Class7th (Count Sort)\\Class7th (Count Sort).csproj|c:\\users\\asriel dreemurr\\desktop\\algorithm\\class7th (count sort)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08047FCB-D511-4B9F-939F-2BDC66647778}|..\\Class6th (Shell Sort)\\Class6th (Shell Sort).csproj|c:\\users\\asriel dreemurr\\desktop\\algorithm\\class6th (shell sort)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C4BF6C-662C-4482-B1DC-BB9DA18D6E74}|..\\Class5th (Insert Sort)\\Class5th (Insert Sort).csproj|c:\\users\\asriel dreemurr\\desktop\\algorithm\\class5th (insert sort)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{188286EC-C439-427B-B4F1-BEE2A2999EB2}|..\\Class4th (Select Sort)\\Class4th (Select Sort).csproj|c:\\users\\asriel dreemurr\\desktop\\algorithm\\class4th (select sort)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C421790-4E34-4DFB-884A-ECE3DD64EF50}|..\\Class3rd (Bubble Sort)\\Class3rd (Bubble Sort).csproj|c:\\users\\asriel dreemurr\\desktop\\algorithm\\class3rd (bubble sort)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1885EFFE-A8D6-4E5F-A45B-7769DA259D01}|..\\Class2nd (Sleve Of Eratosthenes)\\Class2nd (Sleve Of Eratosthenes).csproj|c:\\users\\asriel dreemurr\\desktop\\algorithm\\class2nd (sleve of eratosthenes)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF3EFA92-DA82-4667-ABE4-F891D56E3278}|..\\Class1st (Brute Force)\\Class1st (Brute Force).csproj|c:\\users\\asriel dreemurr\\desktop\\algorithm\\class1st (brute force)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asriel Dreemurr\\Desktop\\Algorithm\\Class8th (Two Pointer)\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Class8th (Two Pointer)\\Program.cs",
+              "ToolTip": "C:\\Users\\Asriel Dreemurr\\Desktop\\Algorithm\\Class8th (Two Pointer)\\Program.cs",
+              "RelativeToolTip": "..\\Class8th (Two Pointer)\\Program.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAkwGkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T02:06:07.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asriel Dreemurr\\Desktop\\Algorithm\\Class7th (Count Sort)\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Class7th (Count Sort)\\Program.cs",
+              "ToolTip": "C:\\Users\\Asriel Dreemurr\\Desktop\\Algorithm\\Class7th (Count Sort)\\Program.cs",
+              "RelativeToolTip": "..\\Class7th (Count Sort)\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T02:06:07.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asriel Dreemurr\\Desktop\\Algorithm\\Class6th (Shell Sort)\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Class6th (Shell Sort)\\Program.cs",
+              "ToolTip": "C:\\Users\\Asriel Dreemurr\\Desktop\\Algorithm\\Class6th (Shell Sort)\\Program.cs",
+              "RelativeToolTip": "..\\Class6th (Shell Sort)\\Program.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAkwEkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T02:06:07.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asriel Dreemurr\\Desktop\\Algorithm\\Class5th (Insert Sort)\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Class5th (Insert Sort)\\Program.cs",
+              "ToolTip": "C:\\Users\\Asriel Dreemurr\\Desktop\\Algorithm\\Class5th (Insert Sort)\\Program.cs",
+              "RelativeToolTip": "..\\Class5th (Insert Sort)\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T02:06:07.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asriel Dreemurr\\Desktop\\Algorithm\\Class4th (Select Sort)\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Class4th (Select Sort)\\Program.cs",
+              "ToolTip": "C:\\Users\\Asriel Dreemurr\\Desktop\\Algorithm\\Class4th (Select Sort)\\Program.cs",
+              "RelativeToolTip": "..\\Class4th (Select Sort)\\Program.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAkwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T02:06:07.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asriel Dreemurr\\Desktop\\Algorithm\\Class3rd (Bubble Sort)\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Class3rd (Bubble Sort)\\Program.cs",
+              "ToolTip": "C:\\Users\\Asriel Dreemurr\\Desktop\\Algorithm\\Class3rd (Bubble Sort)\\Program.cs",
+              "RelativeToolTip": "..\\Class3rd (Bubble Sort)\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T02:06:07.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asriel Dreemurr\\Desktop\\Algorithm\\Class2nd (Sleve Of Eratosthenes)\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Class2nd (Sleve Of Eratosthenes)\\Program.cs",
+              "ToolTip": "C:\\Users\\Asriel Dreemurr\\Desktop\\Algorithm\\Class2nd (Sleve Of Eratosthenes)\\Program.cs",
+              "RelativeToolTip": "..\\Class2nd (Sleve Of Eratosthenes)\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T02:06:07.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asriel Dreemurr\\Desktop\\Algorithm\\Class1st (Brute Force)\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Class1st (Brute Force)\\Program.cs",
+              "ToolTip": "C:\\Users\\Asriel Dreemurr\\Desktop\\Algorithm\\Class1st (Brute Force)\\Program.cs",
+              "RelativeToolTip": "..\\Class1st (Brute Force)\\Program.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAAADwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T02:06:07.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asriel Dreemurr\\Desktop\\Algorithm\\Program\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Asriel Dreemurr\\Desktop\\Algorithm\\Program\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAuwCcAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T02:06:07.341Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
