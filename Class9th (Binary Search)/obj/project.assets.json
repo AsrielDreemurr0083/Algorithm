@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\Game Project\\Algorithm\\Class9th (Binary Search)\\Class9th (Binary Search).csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\Algorithm\\Class9th (Binary Search)\\Class9th (Binary Search).csproj",
       "projectName": "Class9th (Binary Search)",
-      "projectPath": "C:\\Users\\Administrator\\Desktop\\Game Project\\Algorithm\\Class9th (Binary Search)\\Class9th (Binary Search).csproj",
+      "projectPath": "C:\\Users\\Administrator\\Desktop\\Algorithm\\Class9th (Binary Search)\\Class9th (Binary Search).csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Desktop\\Game Project\\Algorithm\\Class9th (Binary Search)\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Desktop\\Algorithm\\Class9th (Binary Search)\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",

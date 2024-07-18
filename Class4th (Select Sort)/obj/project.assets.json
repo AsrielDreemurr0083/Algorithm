@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\Game Project\\Algorithm\\Class4th (Select Sort)\\Class4th (Select Sort).csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\Algorithm\\Class4th (Select Sort)\\Class4th (Select Sort).csproj",
       "projectName": "Class4th (Select Sort)",
-      "projectPath": "C:\\Users\\Administrator\\Desktop\\Game Project\\Algorithm\\Class4th (Select Sort)\\Class4th (Select Sort).csproj",
+      "projectPath": "C:\\Users\\Administrator\\Desktop\\Algorithm\\Class4th (Select Sort)\\Class4th (Select Sort).csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Desktop\\Game Project\\Algorithm\\Class4th (Select Sort)\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Desktop\\Algorithm\\Class4th (Select Sort)\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
