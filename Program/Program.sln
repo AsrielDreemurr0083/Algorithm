@@ -31,9 +31,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class12th (Merge Sort)", ".
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class13th (Dynamic Programing)", "..\Class13th (Dynamic Programing)\Class13th (Dynamic Programing).csproj", "{EF183861-534E-4869-B4FD-CAE575F6D602}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class20th (Topology Sort)", "..\Class20th (Topology Sort)\Class20th (Topology Sort).csproj", "{4D359B91-3386-405C-B631-F15259A08F95}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class20th (Topology Sort)", "..\Class20th (Topology Sort)\Class20th (Topology Sort).csproj", "{4D359B91-3386-405C-B631-F15259A08F95}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class21th (Union Find)", "..\Class21th (Union Find)\Class21th (Union Find).csproj", "{E285B126-A562-4AAF-80C0-20702C42D7F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class21th (Union Find)", "..\Class21th (Union Find)\Class21th (Union Find).csproj", "{E285B126-A562-4AAF-80C0-20702C42D7F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class 22th (Krustal)", "..\Class 22th (Krustal)\Class 22th (Krustal).csproj", "{B5B8EF0D-2CA9-40EA-AD7B-89A3C301AC78}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{E285B126-A562-4AAF-80C0-20702C42D7F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E285B126-A562-4AAF-80C0-20702C42D7F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E285B126-A562-4AAF-80C0-20702C42D7F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5B8EF0D-2CA9-40EA-AD7B-89A3C301AC78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5B8EF0D-2CA9-40EA-AD7B-89A3C301AC78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5B8EF0D-2CA9-40EA-AD7B-89A3C301AC78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5B8EF0D-2CA9-40EA-AD7B-89A3C301AC78}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
