@@ -2,39 +2,28 @@
 {
     internal class Program
     {
-        static void Sieve(int n)
+        static int GCD(int a, int b)
         {
-            int[] array = new int[n + 1];
-
-            for(int i = 2; i < array.Length; i++)
+            while (b != 0)
             {
-                array[i] = i;
+                int temp = b;
+                b = a % b;
+                a = temp;
             }
-
-            for(int i = 2; i <= Math.Sqrt(n); i++)
-            {
-                if (array[i] == 0)
-                {
-                    continue;
-                }
-
-                for(int j = i * 2; j <= n; j += i)
-                {
-                    array[j] = 0;
-                }
-            }
-
-            for(int i = 2; i <= n; i++)
-            {
-                if (array[i] != 0)
-                {
-                    Console.WriteLine(array[i]);
-                }
-            }
+            return a;
         }
+        static int LCM(int a, int b)
+        {
+            return Math.Abs(a * b) / GCD(a, b);
+        }
+        
         static void Main(string[] args)
         {
-            Sieve(49);
+            int a = 56;
+            int b = 98;
+
+            Console.WriteLine(GCD(a, b));
+            Console.WriteLine(LCM(a, b));
         }
     }
 }

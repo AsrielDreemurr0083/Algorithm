@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NoteBook")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4d567b02caaa8de49f2471626736caf5291043d")]
 [assembly: System.Reflection.AssemblyProductAttribute("NoteBook")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NoteBook")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
